@@ -11,17 +11,17 @@ Product
 
 Presentation
 
-* [Entry 1](entries/entry01.md)
-* Entry 2
-* Entry 3
-* Entry 4
-* Entry 5
-* Entry 6
-* Entry 7
-* Entry 8
-* Entry 9
-* Entry 10
-* Entry 11
-* Entry 12
-* Entry 13
-* Entry 14
+* [Blog Entry 1](entries/entry01.md)
+* Blog Entry 2
+* Blog Entry 3
+* Blog Entry 4
+* Blog Entry 5
+* Blog Entry 6
+* Blog Entry 7
+* Blog Entry 8
+* Blog Entry 9
+* Blog Entry 10
+* Blog Entry 11
+* Blog Entry 12
+* Blog Entry 13
+* Blog Entry 14
