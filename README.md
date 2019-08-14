@@ -11,6 +11,7 @@ Product
 
 Presentation
 
+Entries
 * [Entry 1](entries/entry01.md)
 * Entry 2
 * Entry 3
