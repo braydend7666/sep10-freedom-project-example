@@ -5,9 +5,9 @@ The Freedom Project for SEP10 is all about ___
 
 The purpose of this blog is to document my process of researching, defining the problem, creating a solution, and considering its impact.
 
-For my project, I am addressing the topic of ___ and creating a website that also uses ___.
+For my project, I am addressing the topic of CS Education and creating a website that also uses Jekyll. Titled **CS Everywhere**, my site exists to educate students about how CS can be used in just about any job. I decided to use Jekyll because I want the content of my site to be crowd-sourced, but I didn't want to expect contributors to know HTML/CSS. Instead, Jekyll turns simple markdown syntax into custom and consistent HTML/CSS automatically.
 
-Product
+[Product](https://bmuellerhstat.github.io/cseverywhere/)
 
 Presentation
 
