@@ -21,6 +21,7 @@ As the creator of this site and a firm believer that technology can help industr
 ## Links
 
 [Product](https://bmuellerhstat.github.io/cseverywhere/)
+
 [Github](https://github.com/bmuellerhstat/cseverywhere/)
 
 Presentation
