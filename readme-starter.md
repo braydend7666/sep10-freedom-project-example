@@ -7,10 +7,15 @@ Text
 ## Content
 Text
 
-## Implications
-Text
-
 ## Links
+
+[Product](http://)
+
+[Github](http://)
+
+[Presentation](http://)
+
+## Implications
 Text
 
 ---
