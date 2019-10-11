@@ -3,6 +3,7 @@ by Mr. Mueller
 
 ## Context
 The Freedom Project for SEP10 is all about ___. 
+
 The purpose of this blog is to document my process of___.
 
 ## Content
