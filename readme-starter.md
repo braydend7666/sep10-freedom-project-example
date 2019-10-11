@@ -9,11 +9,9 @@ Text
 
 ## Links
 
-[Product](http://)
+Product
 
-[Github](http://)
-
-[Presentation](http://)
+Presentation
 
 ## Implications
 Text
